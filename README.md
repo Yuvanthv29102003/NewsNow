@@ -11,17 +11,6 @@ Explore the source code for the NewsNow Android app – a powerful news browsing
 - Real-time news fetching and dynamic search functionality
 - Elegant loading progress indicator for enhanced UX
 
-## Getting Started
-
-Start your journey to creating a feature-rich news app by delving into the source code and learning best practices in Android development. Watch our tutorial videos to grasp the step-by-step process of crafting a news browsing app from scratch.
-
-## Tutorial Series
-
-Access the complete video tutorial series here  https://www.youtube.com/playlist?list=PLgpnJydBcnPDCyC8tu55-vVbEblkNmIw4
-
-## Stay Updated
-
-Stay updated with our latest coding projects – like, star, and follow us for more exciting developments!
 
 ### Tags
 
